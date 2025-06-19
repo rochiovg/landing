@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochiovg/landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rochiovg/landing/issues"
+  },
+  "homepage": "https://github.com/rochiovg/landing#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
